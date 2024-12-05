@@ -1,0 +1,9 @@
+.\stm320518_eval\w5100.o: ..\src\w5100.c
+.\stm320518_eval\w5100.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\stm320518_eval\w5100.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\stm320518_eval\w5100.o: .\..\inc\types.h
+.\stm320518_eval\w5100.o: .\..\inc\socket.h
+.\stm320518_eval\w5100.o: .\..\inc\w5100.h
+.\stm320518_eval\w5100.o: .\..\inc\spi.h
+.\stm320518_eval\w5100.o: .\..\inc\spi2.h
+.\stm320518_eval\w5100.o: .\..\inc\spi.h
