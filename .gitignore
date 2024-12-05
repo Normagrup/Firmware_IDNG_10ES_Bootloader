@@ -1,0 +1,8 @@
+# Ignorar todo dentro de la carpeta MDK-ARM
+/IDNG-10ES-Bootloader/Project/STM32F0xx_IAP/MDK-ARM/*
+
+# No ignorar archivos con extensión .uvprojx dentro de MDK-ARM
+!/IDNG-10ES-Bootloader/Project/STM32F0xx_IAP/MDK-ARM/**/*.uvprojx
+!/IDNG-10ES-Bootloader/Project/STM32F0xx_IAP/MDK-ARM/**/RTE/
+
+/IDNG-10ES-Bootloader/Project/STM32F0xx_IAP/MDK-ARM
